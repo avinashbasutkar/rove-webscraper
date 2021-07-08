@@ -1,0 +1,10 @@
+schedule == 0.6.0
+telepot == 12.7
+selenium == 3.141.0
+bs4 == 0.0.1
+requests == 2.7.0
+gspread
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+oauth2client
